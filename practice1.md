@@ -126,7 +126,7 @@ https://go.dev/wiki/TableDrivenTests
 Скелет наносервиса:
 
 ```
-struct Router {
+type Router struct {
   // поля
 }
 
