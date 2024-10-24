@@ -3,4 +3,5 @@ go 1.23.1
 use (
 	./practice0
 	./practice1
+	./practice2
 )
